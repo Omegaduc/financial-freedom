@@ -46,7 +46,7 @@ DELETE http://127.0.0.1:8000/auth/users/me
 Content-Type: application/json
 
 {
-    "username": "Josh",
+    "username": "duc",
     "password": "1234"
 }
 
